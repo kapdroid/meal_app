@@ -41,3 +41,5 @@ class Meal {
   final bool isVegan;
   final bool isVegetarian;
 }
+
+enum FilterType { glutenFree, lactoseFree, vegetarian, vegan }
